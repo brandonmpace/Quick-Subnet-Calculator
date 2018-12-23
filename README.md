@@ -19,7 +19,7 @@ License: LGPL-3.0-or-later
     If not, see <https://www.gnu.org/licenses/>.
 
 
-Displays additional information when provided an IP and subnet mask
+This program displays additional information when provided an IP and subnet mask
 
 **Revision history:**
 
