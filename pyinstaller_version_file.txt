@@ -1,4 +1,4 @@
-# UTF-8
+﻿# UTF-8
 #
 # For more details about fixed file info 'ffi' see:
 # http://msdn.microsoft.com/en-us/library/ms646997.aspx
@@ -43,7 +43,7 @@ VSVersionInfo(
         # NOTE: This 'FileVersion' is over-written with the filevers contents! Change that instead!
         StringStruct(u'FileVersion', u'0.0.0.0'),
         StringStruct(u'InternalName', u''),
-        StringStruct(u'LegalCopyright', u'Copyright © Brandon M. Pace 2018'),
+        StringStruct(u'LegalCopyright', u'Copyright © Brandon M. Pace 2018, 2019'),
         StringStruct(u'OriginalFilename', u'Quick_Subnet_Calculator.exe'),
         StringStruct(u'ProductName', u'Quick Subnet Calculator'),
         # NOTE: This is where you should change the version:
