@@ -13,7 +13,7 @@ VSVersionInfo(
     # Set not needed items to zero 0.
     # NOTE: change filevers ONLY. To change product version, edit ProductVersion in the StringTable!
 	# LEAVE the 4-part versioning, just use 0 where you don't have any version info. Ex: 4.4 will be 4, 4, 0, 0
-    filevers=(1, 0, 0, 0),
+    filevers=(1, 1, 0, 0),
     prodvers=(0, 0, 0, 0),
     # Contains a bitmask that specifies the valid bits 'flags'r
     mask=0x3f,
@@ -47,7 +47,7 @@ VSVersionInfo(
         StringStruct(u'OriginalFilename', u'Quick_Subnet_Calculator.exe'),
         StringStruct(u'ProductName', u'Quick Subnet Calculator'),
         # NOTE: This is where you should change the version:
-        StringStruct(u'ProductVersion', u'1.0.0.0'),
+        StringStruct(u'ProductVersion', u'1.1.0.0'),
         # Don't worry about changing the below at all
         StringStruct(u'Assembly Version', u'0.0.0.0')])
       ])

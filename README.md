@@ -1,6 +1,6 @@
 # Quick Subnet Calculator
 
-Copyright (C) 2018 Brandon M. Pace <brandonmpace@gmail.com>
+Copyright (C) 2018, 2019 Brandon M. Pace <brandonmpace@gmail.com>
 
 License: LGPL-3.0-or-later
 
@@ -24,3 +24,4 @@ This program displays additional information when provided an IP and subnet mask
 **Revision history:**
 
     1.0: (2018-12-27) Initial release supporting IPv4
+    1.1: (2019-2-6) Fixed flickering widget issue

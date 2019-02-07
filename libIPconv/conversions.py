@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
-# Copyright (C) 2018 Brandon M. Pace
+# Copyright (C) 2018, 2019 Brandon M. Pace
 #
 # This file is part of Quick Subnet Calculator
 #
